@@ -16,6 +16,10 @@ It is time to innovate and improve the way students learn essential skills onlin
    would you structure a course? Since this curriculum/learning needs to be created so no 
    language is a barrier to learning and teacher, what do you think are some ways to solve this?
 
+##Solution
+Engaging and Accessible user experience to learn essential content online i.e. Web 3.0 and NFTS.
+
+An application where professionals create short video content to provide students with entertaining education, easily accessible videos, opportunities, and certifications.
 
 
 ## Project
