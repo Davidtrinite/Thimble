@@ -23,4 +23,4 @@ An application where professionals create short video content to provide student
 
 
 # Project
-<img src= "https://github.com/Davidtrinite/Thimble/blob/237d888138207008d4fcd7c1fa2c87b62f3d5ca4/Thimble%20app.gif" width="564" />
+<img src= "https://github.com/Davidtrinite/Thimble/blob/237d888138207008d4fcd7c1fa2c87b62f3d5ca4/Thimble%20app.gif" width="800" />
