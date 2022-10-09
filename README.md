@@ -18,5 +18,5 @@ It is time to innovate and improve the way students learn essential skills onlin
 
 
 
-## Projects <img src= 
-"https://github.com/Davidtrinite/Davidtrinite/blob/dc607d90a10ecf35bed1a119fd4422cabf4935ee/Screen_Recording_2022-09-24_at_10_43_36_PM_AdobeExpress.gif " width="256" />
+## Project
+<img src= "https://github.com/Davidtrinite/Thimble/blob/237d888138207008d4fcd7c1fa2c87b62f3d5ca4/Thimble%20app.gif" width="564" />
